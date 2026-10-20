@@ -4,6 +4,13 @@ use crate::transport::Transport;
 use crate::warp::{clip_bpm_from_length, WarpMarker, WarpMode};
 use serde::{Deserialize, Serialize};
 
+fn default_true() -> bool {
+    true
+}
+fn default_returns() -> usize {
+    2
+}
+
 #[derive(Clone, Copy, Debug, PartialEq, Eq, Serialize, Deserialize, Default)]
 pub enum WorkspaceView {
     #[default]
@@ -22,8 +29,19 @@ pub struct MixerChannel {
     pub gain_db: f32,
     /// -1.0 left … 1.0 right
     pub pan: f32,
-    pub mute: bool,
+    /// Live Track Activator: false silences the track (like mute).
+    #[serde(default = "default_true")]
+    pub activator: bool,
     pub solo: bool,
+    #[serde(default)]
+    pub armed: bool,
+    #[serde(default)]
+    pub send_a: f32,
+    #[serde(default)]
+    pub send_b: f32,
+    /// 0 = none, 1 = A, 2 = B
+    #[serde(default)]
+    pub xfade_assign: u8,
 }
 
 impl Default for MixerChannel {
@@ -31,9 +49,20 @@ impl Default for MixerChannel {
         Self {
             gain_db: 0.0,
             pan: 0.0,
-            mute: false,
+            activator: true,
             solo: false,
+            armed: false,
+            send_a: 0.0,
+            send_b: 0.0,
+            xfade_assign: 0,
         }
+    }
+}
+
+impl MixerChannel {
+    /// Live Activator off == muted.
+    pub fn is_audible(&self) -> bool {
+        self.activator
     }
 }
 
@@ -347,6 +376,12 @@ pub struct Song {
     pub workspace: WorkspaceView,
     /// When true, arrangement playhead drives audio; else session clips.
     pub arrangement_mode: bool,
+    /// Global Groove amount 0..1 (Live Control Bar).
+    #[serde(default)]
+    pub global_groove: f64,
+    /// Number of return track stubs shown in Session.
+    #[serde(default = "default_returns")]
+    pub return_track_count: usize,
 }
 
 impl Default for Song {
@@ -378,6 +413,8 @@ impl Song {
             launch_quantize: QuantizeGrid::Bar,
             workspace: WorkspaceView::Session,
             arrangement_mode: false,
+            global_groove: 0.0,
+            return_track_count: 2,
         }
     }
 

@@ -10,6 +10,10 @@ use std::fs;
 use std::path::{Path, PathBuf};
 use thiserror::Error;
 
+fn default_returns() -> usize {
+    2
+}
+
 pub const CURRENT_SCHEMA: u32 = 2;
 
 #[derive(Debug, Error)]
@@ -41,6 +45,10 @@ pub struct SongDto {
     pub launch_quantize: QuantizeGrid,
     pub workspace: WorkspaceView,
     pub arrangement_mode: bool,
+    #[serde(default)]
+    pub global_groove: f64,
+    #[serde(default = "default_returns")]
+    pub return_track_count: usize,
 }
 
 #[derive(Clone, Debug, Serialize, Deserialize)]
@@ -193,6 +201,8 @@ fn song_to_dto(song: &Song) -> SongDto {
         launch_quantize: song.launch_quantize,
         workspace: song.workspace,
         arrangement_mode: song.arrangement_mode,
+        global_groove: song.global_groove,
+        return_track_count: song.return_track_count,
     }
 }
 
@@ -273,6 +283,8 @@ fn dto_to_song(dto: SongDto, root: &Path) -> Song {
         launch_quantize: dto.launch_quantize,
         workspace: dto.workspace,
         arrangement_mode: dto.arrangement_mode,
+        global_groove: dto.global_groove,
+        return_track_count: dto.return_track_count,
     }
 }
 

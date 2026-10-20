@@ -185,7 +185,6 @@ impl App {
                 UiAction::OpenProject => self.open_project(),
                 UiAction::SaveProject => self.save_project(false),
                 UiAction::SaveProjectAs => self.save_project(true),
-                UiAction::SelectBottomTab(_) => {}
                 UiAction::MoveArrangementClip { index, start_beats } => {
                     if let Some(c) = self.ui.song.arrangement.get_mut(index) {
                         c.start_beats = start_beats;
@@ -194,6 +193,28 @@ impl App {
                 }
                 UiAction::Republish => self.publish(),
                 UiAction::ImportWavDialog => self.import_wav_dialog(),
+                UiAction::StopClip { track } => {
+                    self.push(EngineCommand::StopClip {
+                        track_index: track as u16,
+                    });
+                }
+                UiAction::BackToArrangement => {
+                    self.push(EngineCommand::BackToArrangement);
+                }
+                UiAction::SetArmed { track, armed } => {
+                    self.push(EngineCommand::SetArmed {
+                        track_index: track as u16,
+                        armed,
+                    });
+                    self.publish();
+                }
+                UiAction::SetActivator { track, activator } => {
+                    self.push(EngineCommand::SetActivator {
+                        track_index: track as u16,
+                        activator,
+                    });
+                }
+                UiAction::TempoNudge(_) => {}
             }
         }
     }

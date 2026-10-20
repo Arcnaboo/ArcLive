@@ -75,3 +75,11 @@ Results (2026-10-20):
 - WAV: hound import, browser list (samples/), drag-drop into slots + clip-slot moves
 - Docs: docs/warping.md
 - `cargo test --workspace`: all passed (27 tests incl. warp + schema v2)
+## Live 7–faithful UI (2026-10-20)
+
+- Control Bar: Play/Stop (double-reset)/Rec, Back to Arrangement, ArrPos, Tempo, Tap, Nudge, Groove, Quantize, KEY/MIDI map
+- Session: scene launch on **Master (right)**; triangle launch + square stop; Track Status; Activator/Solo/Arm
+- Clip View boxes (Clip/Launch/Envelopes/Sample|Notes) — not Live 8+ tab chrome
+- View menu: Browser, In/Out, Sends, Returns, Mixer, Crossfader, Clip boxes
+- Domain: mixer.activator/armed/sends/xfade; song.global_groove; return stubs
+- Docs: `docs/live7-ui.md`; `cargo test --workspace` passed

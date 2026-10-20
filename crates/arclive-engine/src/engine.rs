@@ -190,6 +190,27 @@ impl Engine {
                     self.launch_clip(ti, scene_index as usize, quantize);
                 }
             }
+            EngineCommand::BackToArrangement => {
+                for t in &mut Arc::make_mut(&mut self.local_graph).tracks {
+                    t.playing = None;
+                }
+                self.arrangement_mode = true;
+            }
+            EngineCommand::SetArmed { track_index, armed } => {
+                // Armed is UI/domain; graph republish carries it. No RT state required yet.
+                let _ = (track_index, armed);
+            }
+            EngineCommand::SetActivator {
+                track_index,
+                activator,
+            } => {
+                if let Some(t) = Arc::make_mut(&mut self.local_graph)
+                    .tracks
+                    .get_mut(track_index as usize)
+                {
+                    t.mixer.activator = activator;
+                }
+            }
             EngineCommand::StopAllClips => {
                 for t in &mut Arc::make_mut(&mut self.local_graph).tracks {
                     t.playing = None;
@@ -219,7 +240,7 @@ impl Engine {
                     .tracks
                     .get_mut(track_index as usize)
                 {
-                    t.mixer.mute = mute;
+                    t.mixer.activator = !mute;
                 }
             }
             EngineCommand::SetSolo { track_index, solo } => {
@@ -293,7 +314,7 @@ impl Engine {
         let Some(t) = self.local_graph.tracks.get(index) else {
             return false;
         };
-        if t.mixer.mute {
+        if !t.mixer.activator {
             return false;
         }
         if self.any_solo() && !t.mixer.solo {

@@ -28,6 +28,16 @@ pub enum EngineCommand {
         quantize: QuantizeGrid,
     },
     StopAllClips,
+    /// Clear Session overrides so tracks follow Arrangement again.
+    BackToArrangement,
+    SetArmed {
+        track_index: u16,
+        armed: bool,
+    },
+    SetActivator {
+        track_index: u16,
+        activator: bool,
+    },
     /// Gain in dB for track index.
     SetGain {
         track_index: u16,
