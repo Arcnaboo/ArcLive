@@ -1,0 +1,12 @@
+[package]
+name = "arclive-ui"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+description = "ArcLive egui desktop shell"
+
+[dependencies]
+arclive-core = { workspace = true }
+egui = { workspace = true }
+eframe = { workspace = true }

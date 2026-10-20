@@ -1,0 +1,24 @@
+[package]
+name = "arclive-app"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+description = "ArcLive desktop application"
+default-run = "arclive"
+
+[[bin]]
+name = "arclive"
+path = "src/main.rs"
+
+[dependencies]
+arclive-core = { workspace = true }
+arclive-engine = { workspace = true }
+arclive-project = { workspace = true }
+arclive-ui = { workspace = true }
+anyhow = { workspace = true }
+eframe = { workspace = true }
+egui = { workspace = true }
+rfd = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }

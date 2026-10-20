@@ -1,0 +1,12 @@
+[package]
+name = "arclive-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+description = "ArcLive domain model: time, transport, song, tracks, clips"
+
+[dependencies]
+serde = { workspace = true }
+thiserror = { workspace = true }
+hound = { workspace = true }
