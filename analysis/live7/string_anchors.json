@@ -1,0 +1,2850 @@
+[
+  {
+    "label": "exe",
+    "path": "C:\\Program Files (x86)\\Ableton\\Live 7.0.18\\Program\\Live 7.0.18.exe",
+    "size": 25952256,
+    "category_counts": {
+      "serialization": 80,
+      "audio": 80,
+      "vst": 80,
+      "midi": 80,
+      "modules": 9
+    },
+    "strings": {
+      "serialization": [
+        {
+          "offset": "0x714d8",
+          "encoding": "ascii",
+          "value": "hxML"
+        },
+        {
+          "offset": "0x11d1ed0",
+          "encoding": "ascii",
+          "value": " deflate 1.2.2 Copyright 1995-2004 Jean-loup Gailly "
+        },
+        {
+          "offset": "0x11d54d0",
+          "encoding": "ascii",
+          "value": " inflate 1.2.2 Copyright 1995-2004 Mark Adler "
+        },
+        {
+          "offset": "0x11f1da4",
+          "encoding": "ascii",
+          "value": "OCSP Archive Cutoff"
+        },
+        {
+          "offset": "0x11f1db8",
+          "encoding": "ascii",
+          "value": "archiveCutoff"
+        },
+        {
+          "offset": "0x11f2228",
+          "encoding": "ascii",
+          "value": "id-regCtrl-pkiArchiveOptions"
+        },
+        {
+          "offset": "0x11f28d4",
+          "encoding": "ascii",
+          "value": "id-smime-aa-ets-archiveTimeStamp"
+        },
+        {
+          "offset": "0x11f34a4",
+          "encoding": "ascii",
+          "value": "zlib compression"
+        },
+        {
+          "offset": "0x11f34b8",
+          "encoding": "ascii",
+          "value": "ZLIB"
+        },
+        {
+          "offset": "0x11fb768",
+          "encoding": "ascii",
+          "value": "d:\\dev\\ableton-5.0-intelmac\\xprojects\\xopenssl\\dist\\crypto\\ec\\ec2_smpt.c"
+        },
+        {
+          "offset": "0x1219537",
+          "encoding": "ascii",
+          "value": "@Ableton Live"
+        },
+        {
+          "offset": "0x1219548",
+          "encoding": "ascii",
+          "value": "Ableton Live (Reason)"
+        },
+        {
+          "offset": "0x122219c",
+          "encoding": "ascii",
+          "value": "Song,SampleSong,VideoSong,MidiSong,ArrangerSong,LiveDocument"
+        },
+        {
+          "offset": "0x1222360",
+          "encoding": "ascii",
+          "value": "Song,SampleSong,ArrangerSong,LiveDocument"
+        },
+        {
+          "offset": "0x122246c",
+          "encoding": "ascii",
+          "value": "SongPrefData"
+        },
+        {
+          "offset": "0x122258c",
+          "encoding": "ascii",
+          "value": "Song,SampleSong,ArrangerSong,ToolSong,LiveDocument"
+        },
+        {
+          "offset": "0x12244b4",
+          "encoding": "ascii",
+          "value": "DevicePresets"
+        },
+        {
+          "offset": "0x12244dc",
+          "encoding": "ascii",
+          "value": "InstrumentBranchPreset"
+        },
+        {
+          "offset": "0x122450c",
+          "encoding": "ascii",
+          "value": "MidiEffectBranchPreset"
+        },
+        {
+          "offset": "0x122453c",
+          "encoding": "ascii",
+          "value": "AudioEffectBranchPreset"
+        },
+        {
+          "offset": "0x122456c",
+          "encoding": "ascii",
+          "value": "GroupPreset"
+        },
+        {
+          "offset": "0x1224578",
+          "encoding": "ascii",
+          "value": "GroupDevicePreset"
+        },
+        {
+          "offset": "0x122458c",
+          "encoding": "ascii",
+          "value": "List<GroupDeviceBranchPreset>"
+        },
+        {
+          "offset": "0x12245ac",
+          "encoding": "ascii",
+          "value": "BranchPresets"
+        },
+        {
+          "offset": "0x12245c8",
+          "encoding": "ascii",
+          "value": "Presets"
+        },
+        {
+          "offset": "0x1229860",
+          "encoding": "ascii",
+          "value": ".adg"
+        },
+        {
+          "offset": "0x1229874",
+          "encoding": "ascii",
+          "value": ".adv"
+        },
+        {
+          "offset": "0x122987c",
+          "encoding": "ascii",
+          "value": "preset.ico"
+        },
+        {
+          "offset": "0x1229888",
+          "encoding": "ascii",
+          "value": ".alc"
+        },
+        {
+          "offset": "0x1229898",
+          "encoding": "ascii",
+          "value": ".asd"
+        },
+        {
+          "offset": "0x12299c8",
+          "encoding": "ascii",
+          "value": "Activate New Song"
+        },
+        {
+          "offset": "0x12299dc",
+          "encoding": "ascii",
+          "value": "AddControlled New Song"
+        },
+        {
+          "offset": "0x1229a1c",
+          "encoding": "ascii",
+          "value": "SubControl Old Song"
+        },
+        {
+          "offset": "0x1229a30",
+          "encoding": "ascii",
+          "value": "Deactivate Old Song"
+        },
+        {
+          "offset": "0x1229ab4",
+          "encoding": "ascii",
+          "value": "WarnSelfContainLiveSet"
+        },
+        {
+          "offset": "0x1229cbc",
+          "encoding": "ascii",
+          "value": "Template.als"
+        },
+        {
+          "offset": "0x1229ccc",
+          "encoding": "ascii",
+          "value": ".als"
+        },
+        {
+          "offset": "0x122bd75",
+          "encoding": "ascii",
+          "value": "  - Copies of the presets used"
+        },
+        {
+          "offset": "0x122bd95",
+          "encoding": "ascii",
+          "value": "All data from this file will be treated confidentially, and will be used for bug fixing by Ableton personnel only."
+        },
+        {
+          "offset": "0x122be28",
+          "encoding": "ascii",
+          "value": "(c) 1999 - 2009 by Ableton AG and its licensors."
+        },
+        {
+          "offset": "0x122be59",
+          "encoding": "ascii",
+          "value": "Ableton is a trademark of Ableton AG. All other commercial symbols, product and company names are trademarks or registered trademarks of their respective holders. All rights reserved."
+        },
+        {
+          "offset": "0x122ef60",
+          "encoding": "ascii",
+          "value": "sDialogTextPleaseSaveSong"
+        },
+        {
+          "offset": "0x12301e4",
+          "encoding": "ascii",
+          "value": "SizeOfPresets                        "
+        },
+        {
+          "offset": "0x1230284",
+          "encoding": "ascii",
+          "value": "NumberOfPresets                      "
+        },
+        {
+          "offset": "0x123082c",
+          "encoding": "ascii",
+          "value": "MidiPreHear.adv"
+        },
+        {
+          "offset": "0x1230844",
+          "encoding": "ascii",
+          "value": "PreviewAlwaysSyncedToSong"
+        },
+        {
+          "offset": "0x12329a8",
+          "encoding": "ascii",
+          "value": "Live Preset"
+        },
+        {
+          "offset": "0x1232aa0",
+          "encoding": "ascii",
+          "value": "Creating an Ableton Library Pack"
+        },
+        {
+          "offset": "0x1232c64",
+          "encoding": "ascii",
+          "value": "sInfoTextShowPresets"
+        },
+        {
+          "offset": "0x1232c7c",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderShowPresets"
+        },
+        {
+          "offset": "0x1233224",
+          "encoding": "ascii",
+          "value": "sDialogListOfPresets"
+        },
+        {
+          "offset": "0x1233d54",
+          "encoding": "ascii",
+          "value": "sDialogContentOnePreset"
+        },
+        {
+          "offset": "0x1233dcc",
+          "encoding": "ascii",
+          "value": "sDialogContentPresets"
+        },
+        {
+          "offset": "0x123663c",
+          "encoding": "ascii",
+          "value": "Ableton"
+        },
+        {
+          "offset": "0x1238740",
+          "encoding": "ascii",
+          "value": "This beta version of Live has expired. Please download the current release from www.ableton.com."
+        },
+        {
+          "offset": "0x1239e90",
+          "encoding": "ascii",
+          "value": "Library Presets: Ok"
+        },
+        {
+          "offset": "0x1239ea4",
+          "encoding": "ascii",
+          "value": "Library Presets: Check"
+        },
+        {
+          "offset": "0x1239ed8",
+          "encoding": "ascii",
+          "value": "AbletonLibrary.ini"
+        },
+        {
+          "offset": "0x123c50c",
+          "encoding": "ascii",
+          "value": "EnableAbletonLibraryPackCreation"
+        },
+        {
+          "offset": "0x123c6d8",
+          "encoding": "ascii",
+          "value": "ClipFireWillContinueSong"
+        },
+        {
+          "offset": "0x123d77c",
+          "encoding": "ascii",
+          "value": "mpAbletonColor"
+        },
+        {
+          "offset": "0x123e4bc",
+          "encoding": "ascii",
+          "value": ".xml"
+        },
+        {
+          "offset": "0x123e558",
+          "encoding": "ascii",
+          "value": "Ableton Live Pack"
+        },
+        {
+          "offset": "0x123e5f4",
+          "encoding": "ascii",
+          "value": "AU Preset"
+        },
+        {
+          "offset": "0x123e600",
+          "encoding": "ascii",
+          "value": "Audio Unit Preset"
+        },
+        {
+          "offset": "0x123e614",
+          "encoding": "ascii",
+          "value": ".aupreset"
+        },
+        {
+          "offset": "0x123e664",
+          "encoding": "ascii",
+          "value": "Ableton Text"
+        },
+        {
+          "offset": "0x123e67c",
+          "encoding": "ascii",
+          "value": "Ableton Skin"
+        },
+        {
+          "offset": "0x123e6cc",
+          "encoding": "ascii",
+          "value": "Ableton Sound Data"
+        },
+        {
+          "offset": "0x123e6e4",
+          "encoding": "ascii",
+          "value": "Ableton Device Group"
+        },
+        {
+          "offset": "0x123e700",
+          "encoding": "ascii",
+          "value": "Ableton Device"
+        },
+        {
+          "offset": "0x123e710",
+          "encoding": "ascii",
+          "value": "Ableton Live Clip"
+        },
+        {
+          "offset": "0x123e724",
+          "encoding": "ascii",
+          "value": "Ableton Live Set"
+        },
+        {
+          "offset": "0x123e740",
+          "encoding": "ascii",
+          "value": "Ableton Preferences"
+        },
+        {
+          "offset": "0x123e760",
+          "encoding": "ascii",
+          "value": "Ableton Language File"
+        },
+        {
+          "offset": "0x123e780",
+          "encoding": "ascii",
+          "value": "Ableton Font"
+        },
+        {
+          "offset": "0x123e79c",
+          "encoding": "ascii",
+          "value": "Ableton Animation"
+        },
+        {
+          "offset": "0x123e7bc",
+          "encoding": "ascii",
+          "value": "Ableton Bitmap"
+        },
+        {
+          "offset": "0x123e83c",
+          "encoding": "ascii",
+          "value": "Ableton Meta Sound"
+        },
+        {
+          "offset": "0x123fb14",
+          "encoding": "ascii",
+          "value": "sStatusViewLoadSongDocument"
+        }
+      ],
+      "audio": [
+        {
+          "offset": "0x11d6f07",
+          "encoding": "ascii",
+          "value": "AABORTAFTERALLANDASCATTACHBEFOREBEGINBETWEENBYCASCADECASECHECKCOLLATECOMMITCONFLICTCONSTRAINTCREATECROSSDATABASEDEFAULTDEFERRABLEDEFERREDDELETEDESCDETACHDISTINCTDROPEACHELSEENDEXCEPTEXCLUSIVEEXPLAINFAILFOREIGNFROMFULLGLOBGROUPHAVINGIGNOREIM"
+        },
+        {
+          "offset": "0x11e1828",
+          "encoding": "ascii",
+          "value": "__subclasses__() -> list of immediate subclasses"
+        },
+        {
+          "offset": "0x11e7930",
+          "encoding": "ascii",
+          "value": "buffer size mismatch"
+        },
+        {
+          "offset": "0x11e84fc",
+          "encoding": "ascii",
+          "value": "negative buffersize in connect"
+        },
+        {
+          "offset": "0x11ee4cc",
+          "encoding": "ascii",
+          "value": "missing ) after comment"
+        },
+        {
+          "offset": "0x11ee84c",
+          "encoding": "ascii",
+          "value": "No ASIO Driver Error"
+        },
+        {
+          "offset": "0x11ee864",
+          "encoding": "ascii",
+          "value": "No ASIO Driver"
+        },
+        {
+          "offset": "0x11ee898",
+          "encoding": "ascii",
+          "value": "software\\asio"
+        },
+        {
+          "offset": "0x11f334c",
+          "encoding": "ascii",
+          "value": "Microsoft Commercial Code Signing"
+        },
+        {
+          "offset": "0x11f3938",
+          "encoding": "ascii",
+          "value": "Netscape Comment"
+        },
+        {
+          "offset": "0x11f394c",
+          "encoding": "ascii",
+          "value": "nsComment"
+        },
+        {
+          "offset": "0x1218280",
+          "encoding": "ascii",
+          "value": "VORBIS_COMMENT"
+        },
+        {
+          "offset": "0x1218b48",
+          "encoding": "ascii",
+          "value": "REXSetOutputSampleRate"
+        },
+        {
+          "offset": "0x122429c",
+          "encoding": "ascii",
+          "value": "MidiToAudioDeviceChain"
+        },
+        {
+          "offset": "0x12242f4",
+          "encoding": "ascii",
+          "value": "AudioToAudioDeviceChain"
+        },
+        {
+          "offset": "0x12266a4",
+          "encoding": "ascii",
+          "value": "$Comment"
+        },
+        {
+          "offset": "0x122be59",
+          "encoding": "ascii",
+          "value": "Ableton is a trademark of Ableton AG. All other commercial symbols, product and company names are trademarks or registered trademarks of their respective holders. All rights reserved."
+        },
+        {
+          "offset": "0x122e790",
+          "encoding": "ascii",
+          "value": "sInfoTextPluginBufferSize"
+        },
+        {
+          "offset": "0x122e7ac",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderPluginBufferSize"
+        },
+        {
+          "offset": "0x122e7cc",
+          "encoding": "ascii",
+          "value": "sDialogTextPluginBufferSize"
+        },
+        {
+          "offset": "0x123bd90",
+          "encoding": "ascii",
+          "value": "WriteLanguageCommentFile"
+        },
+        {
+          "offset": "0x123bfa4",
+          "encoding": "ascii",
+          "value": "SoundManagerBufferSize"
+        },
+        {
+          "offset": "0x123c790",
+          "encoding": "ascii",
+          "value": "AsioDisableMultiClient"
+        },
+        {
+          "offset": "0x123c7a8",
+          "encoding": "ascii",
+          "value": "AsioSupportProcessNow"
+        },
+        {
+          "offset": "0x123c7c0",
+          "encoding": "ascii",
+          "value": "AsioNoSetSampleRate"
+        },
+        {
+          "offset": "0x123c7d4",
+          "encoding": "ascii",
+          "value": "AsioNoSampleRateCheck"
+        },
+        {
+          "offset": "0x123c7ec",
+          "encoding": "ascii",
+          "value": "AsioNoClockSource"
+        },
+        {
+          "offset": "0x1246860",
+          "encoding": "ascii",
+          "value": "ASIO Technology by Steinberg Media Technologies GmbH."
+        },
+        {
+          "offset": "0x1246898",
+          "encoding": "ascii",
+          "value": "ASIO Technology and VST PlugIn Technology by Steinberg Media Technologies GmbH."
+        },
+        {
+          "offset": "0x124bf10",
+          "encoding": "ascii",
+          "value": "GetSystemMetrics"
+        },
+        {
+          "offset": "0x124f820",
+          "encoding": "ascii",
+          "value": "OEngine.OSetSampleRate"
+        },
+        {
+          "offset": "0x12501e8",
+          "encoding": "ascii",
+          "value": "Default DirectSound Device"
+        },
+        {
+          "offset": "0x12507a4",
+          "encoding": "ascii",
+          "value": "BufferSize"
+        },
+        {
+          "offset": "0x12522d8",
+          "encoding": "ascii",
+          "value": "mDefaultSampleRate"
+        },
+        {
+          "offset": "0x125403c",
+          "encoding": "ascii",
+          "value": "mpSampleRate"
+        },
+        {
+          "offset": "0x1254ddc",
+          "encoding": "ascii",
+          "value": "VstAsioCommand"
+        },
+        {
+          "offset": "0x125a768",
+          "encoding": "ascii",
+          "value": "mpPlugBufferSizeMode"
+        },
+        {
+          "offset": "0x125a820",
+          "encoding": "ascii",
+          "value": "OPluginHost.PluginBufferSizeChanged"
+        },
+        {
+          "offset": "0x125c9e0",
+          "encoding": "ascii",
+          "value": "WillPunchInImmediately"
+        },
+        {
+          "offset": "0x125db04",
+          "encoding": "ascii",
+          "value": "mMessageBoxId"
+        },
+        {
+          "offset": "0x125f074",
+          "encoding": "ascii",
+          "value": "sErrorChangeSampleRate"
+        },
+        {
+          "offset": "0x126f220",
+          "encoding": "ascii",
+          "value": "sInfoTextSampleRateDisplay"
+        },
+        {
+          "offset": "0x126f23c",
+          "encoding": "ascii",
+          "value": "sInfoTextSampleRate"
+        },
+        {
+          "offset": "0x126f250",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderSampleRate"
+        },
+        {
+          "offset": "0x126f26c",
+          "encoding": "ascii",
+          "value": "sDialogTextSampleRate"
+        },
+        {
+          "offset": "0x128160c",
+          "encoding": "ascii",
+          "value": "Recommended"
+        },
+        {
+          "offset": "0x12983a4",
+          "encoding": "ascii",
+          "value": "mSampleRate"
+        },
+        {
+          "offset": "0x1298618",
+          "encoding": "ascii",
+          "value": "[Sample rate of ($1) is not supported for $2 files.]"
+        },
+        {
+          "offset": "0x1298680",
+          "encoding": "ascii",
+          "value": "sErrorCantReadSoundFile"
+        },
+        {
+          "offset": "0x12a18b0",
+          "encoding": "ascii",
+          "value": "mMessageString"
+        },
+        {
+          "offset": "0x12a1cd4",
+          "encoding": "ascii",
+          "value": "AudioRipper.ax"
+        },
+        {
+          "offset": "0x12a3498",
+          "encoding": "ascii",
+          "value": "AGenericAudioDeviceUnit"
+        },
+        {
+          "offset": "0x12ac788",
+          "encoding": "ascii",
+          "value": "  Sample: Filename='%s' *** buffer size of %d too small for folder path"
+        },
+        {
+          "offset": "0x12b63bc",
+          "encoding": "ascii",
+          "value": "sInfoTextReWireSlaveSampleRate"
+        },
+        {
+          "offset": "0x12b63dc",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderReWireSlaveSampleRate"
+        },
+        {
+          "offset": "0x12b6404",
+          "encoding": "ascii",
+          "value": "sDialogTextReWireSlaveSampleRate"
+        },
+        {
+          "offset": "0x12b657c",
+          "encoding": "ascii",
+          "value": "sDialogTextAudioDevice"
+        },
+        {
+          "offset": "0x12b65d4",
+          "encoding": "ascii",
+          "value": "Sample Rate %f"
+        },
+        {
+          "offset": "0x12b6958",
+          "encoding": "ascii",
+          "value": "mpReWireSlaveSampleRateEnum"
+        },
+        {
+          "offset": "0x12b6974",
+          "encoding": "ascii",
+          "value": "mReWireSlaveSampleRate"
+        },
+        {
+          "offset": "0x12b699c",
+          "encoding": "ascii",
+          "value": "mpSampleRateEnum"
+        },
+        {
+          "offset": "0x12b6a9c",
+          "encoding": "ascii",
+          "value": "APrefAudioDevice"
+        },
+        {
+          "offset": "0x12b6afc",
+          "encoding": "ascii",
+          "value": "RootUnit.SetSampleRateReWireSlave"
+        },
+        {
+          "offset": "0x12b926c",
+          "encoding": "ascii",
+          "value": "MaxDriveAudioBufferSize"
+        },
+        {
+          "offset": "0x12b9284",
+          "encoding": "ascii",
+          "value": "RootUnit.SetSampleRateReWireHost"
+        },
+        {
+          "offset": "0x12b92e0",
+          "encoding": "ascii",
+          "value": "SampleRate"
+        },
+        {
+          "offset": "0x12b9a40",
+          "encoding": "ascii",
+          "value": "sErrorSendTrackOnlyAcceptsAudioDevices"
+        },
+        {
+          "offset": "0x12c742c",
+          "encoding": "ascii",
+          "value": "AAudioToAudioDeviceChain"
+        },
+        {
+          "offset": "0x12c74a0",
+          "encoding": "ascii",
+          "value": "Ableton Live Engine.dll"
+        },
+        {
+          "offset": "0x12c74c4",
+          "encoding": "ascii",
+          "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+        },
+        {
+          "offset": "0x12cfda0",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnBufferSizeChanged"
+        },
+        {
+          "offset": "0x12cff60",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnNewSampleRate"
+        },
+        {
+          "offset": "0x12cff8c",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnSampleRateChanged"
+        },
+        {
+          "offset": "0x12d03ec",
+          "encoding": "ascii",
+          "value": "BufferSizeInSamples"
+        },
+        {
+          "offset": "0x12d0400",
+          "encoding": "ascii",
+          "value": "OPluginHost.FinishBufferSizeChange"
+        },
+        {
+          "offset": "0x12d11b8",
+          "encoding": "ascii",
+          "value": "_OFileBufferSize"
+        },
+        {
+          "offset": "0x12dbb34",
+          "encoding": "ascii",
+          "value": "Pickup Symmetry"
+        },
+        {
+          "offset": "0x12dbb44",
+          "encoding": "ascii",
+          "value": "P Symmetry"
+        },
+        {
+          "offset": "0x12dbe80",
+          "encoding": "ascii",
+          "value": "mpPickupSymmetry"
+        },
+        {
+          "offset": "0x12dcf40",
+          "encoding": "ascii",
+          "value": "Hammer (bouncing)"
+        }
+      ],
+      "vst": [
+        {
+          "offset": "0x11db440",
+          "encoding": "ascii",
+          "value": "ReWireDebug.dll"
+        },
+        {
+          "offset": "0x11db450",
+          "encoding": "ascii",
+          "value": "ReWireBeta.dll"
+        },
+        {
+          "offset": "0x11db460",
+          "encoding": "ascii",
+          "value": "ReWire.dll"
+        },
+        {
+          "offset": "0x11e4260",
+          "encoding": "ascii",
+          "value": "python%d%d.dll"
+        },
+        {
+          "offset": "0x11e42d0",
+          "encoding": "ascii",
+          "value": "kernel32.dll"
+        },
+        {
+          "offset": "0x11fbc78",
+          "encoding": "ascii",
+          "value": "USER32.DLL"
+        },
+        {
+          "offset": "0x11fbd94",
+          "encoding": "ascii",
+          "value": "NETAPI32.DLL"
+        },
+        {
+          "offset": "0x11fbda4",
+          "encoding": "ascii",
+          "value": "KERNEL32.DLL"
+        },
+        {
+          "offset": "0x11fbdb4",
+          "encoding": "ascii",
+          "value": "ADVAPI32.DLL"
+        },
+        {
+          "offset": "0x1218a84",
+          "encoding": "ascii",
+          "value": "REX Shared Library Debug.dll"
+        },
+        {
+          "offset": "0x1218aa4",
+          "encoding": "ascii",
+          "value": "REX Shared Library Beta.dll"
+        },
+        {
+          "offset": "0x1218ac0",
+          "encoding": "ascii",
+          "value": "REX Shared Library.dll"
+        },
+        {
+          "offset": "0x1224a08",
+          "encoding": "ascii",
+          "value": "AuPluginDevice"
+        },
+        {
+          "offset": "0x1224a18",
+          "encoding": "ascii",
+          "value": "AuPluginInfo"
+        },
+        {
+          "offset": "0x1225150",
+          "encoding": "ascii",
+          "value": "VstDeviceParam"
+        },
+        {
+          "offset": "0x1225198",
+          "encoding": "ascii",
+          "value": "VstPluginInfo"
+        },
+        {
+          "offset": "0x12251a8",
+          "encoding": "ascii",
+          "value": "Slot<PluginInfo>"
+        },
+        {
+          "offset": "0x12251bc",
+          "encoding": "ascii",
+          "value": "PluginDesc"
+        },
+        {
+          "offset": "0x12251c8",
+          "encoding": "ascii",
+          "value": "VstDevice"
+        },
+        {
+          "offset": "0x12251d4",
+          "encoding": "ascii",
+          "value": "PluginDevice"
+        },
+        {
+          "offset": "0x1225384",
+          "encoding": "ascii",
+          "value": "PluginParameter"
+        },
+        {
+          "offset": "0x1225394",
+          "encoding": "ascii",
+          "value": "PluginFloatParameter"
+        },
+        {
+          "offset": "0x12253bc",
+          "encoding": "ascii",
+          "value": "VstPrefs"
+        },
+        {
+          "offset": "0x122a47c",
+          "encoding": "ascii",
+          "value": "sMenuPluginWindows"
+        },
+        {
+          "offset": "0x122a8ac",
+          "encoding": "ascii",
+          "value": "sMenuVstPlug"
+        },
+        {
+          "offset": "0x122b1c8",
+          "encoding": "ascii",
+          "value": "VstDeviceIcon00.tif"
+        },
+        {
+          "offset": "0x122b1f0",
+          "encoding": "ascii",
+          "value": "sDialogSelectVstDirectoryPrompt"
+        },
+        {
+          "offset": "0x122b2e8",
+          "encoding": "ascii",
+          "value": "sInfoTextVstPlugs"
+        },
+        {
+          "offset": "0x122b2fc",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderVstPlugs"
+        },
+        {
+          "offset": "0x122b344",
+          "encoding": "ascii",
+          "value": "sDialogVstDirectorySet"
+        },
+        {
+          "offset": "0x122b35c",
+          "encoding": "ascii",
+          "value": "sDialogReWireSlaveNoPlugIns"
+        },
+        {
+          "offset": "0x122b378",
+          "encoding": "ascii",
+          "value": "sDialogSelectVstDirectory"
+        },
+        {
+          "offset": "0x122e700",
+          "encoding": "ascii",
+          "value": "vstpath"
+        },
+        {
+          "offset": "0x122e790",
+          "encoding": "ascii",
+          "value": "sInfoTextPluginBufferSize"
+        },
+        {
+          "offset": "0x122e7ac",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderPluginBufferSize"
+        },
+        {
+          "offset": "0x122e7cc",
+          "encoding": "ascii",
+          "value": "sDialogTextPluginBufferSize"
+        },
+        {
+          "offset": "0x122f060",
+          "encoding": "ascii",
+          "value": "sDialogRedHintSelectVstDirectoryPrompt"
+        },
+        {
+          "offset": "0x122f088",
+          "encoding": "ascii",
+          "value": "sInfoTextVstPlugInDirectory"
+        },
+        {
+          "offset": "0x122f0a4",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderVstPlugInDirectory"
+        },
+        {
+          "offset": "0x122f0c8",
+          "encoding": "ascii",
+          "value": "sDialogTextHeaderVstPlugInDirectory"
+        },
+        {
+          "offset": "0x122f3d8",
+          "encoding": "ascii",
+          "value": "sInfoTextVstPlugInReScan"
+        },
+        {
+          "offset": "0x122f3f4",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderVstPlugInReScan"
+        },
+        {
+          "offset": "0x122f414",
+          "encoding": "ascii",
+          "value": "sDialogTextVstPluginRescan"
+        },
+        {
+          "offset": "0x122f430",
+          "encoding": "ascii",
+          "value": "sControlRescanVstDb"
+        },
+        {
+          "offset": "0x122f5d4",
+          "encoding": "ascii",
+          "value": "sInfoTextAutoHidePluginWindows"
+        },
+        {
+          "offset": "0x122f5f4",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderAutoHidePluginWindows"
+        },
+        {
+          "offset": "0x122f61c",
+          "encoding": "ascii",
+          "value": "sDialogTextAutoHidePluginWindows"
+        },
+        {
+          "offset": "0x122f640",
+          "encoding": "ascii",
+          "value": "sInfoTextMultiplePluginWindows"
+        },
+        {
+          "offset": "0x122f660",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderMultiplePluginWindows"
+        },
+        {
+          "offset": "0x122f688",
+          "encoding": "ascii",
+          "value": "sDialogTextMultiplePluginWindows"
+        },
+        {
+          "offset": "0x122fa54",
+          "encoding": "ascii",
+          "value": "sDialogTextSectionPluginWindows"
+        },
+        {
+          "offset": "0x123bc64",
+          "encoding": "ascii",
+          "value": "shlwapi.dll"
+        },
+        {
+          "offset": "0x123bdac",
+          "encoding": "ascii",
+          "value": "VstNoUserDir"
+        },
+        {
+          "offset": "0x123bdbc",
+          "encoding": "ascii",
+          "value": "VstNoScanSkip"
+        },
+        {
+          "offset": "0x123bdcc",
+          "encoding": "ascii",
+          "value": "VstNoLocalDir"
+        },
+        {
+          "offset": "0x123c188",
+          "encoding": "ascii",
+          "value": "PluginScanVerbose"
+        },
+        {
+          "offset": "0x123c1b4",
+          "encoding": "ascii",
+          "value": "NoVstStartupScan"
+        },
+        {
+          "offset": "0x123c2e0",
+          "encoding": "ascii",
+          "value": "LogPluginPerformance"
+        },
+        {
+          "offset": "0x123e620",
+          "encoding": "ascii",
+          "value": "VST Program"
+        },
+        {
+          "offset": "0x123e634",
+          "encoding": "ascii",
+          "value": "VST Bank"
+        },
+        {
+          "offset": "0x1246898",
+          "encoding": "ascii",
+          "value": "ASIO Technology and VST PlugIn Technology by Steinberg Media Technologies GmbH."
+        },
+        {
+          "offset": "0x1246d8c",
+          "encoding": "ascii",
+          "value": "sErrorVstEffectLimitation"
+        },
+        {
+          "offset": "0x1246eac",
+          "encoding": "ascii",
+          "value": "sErrorLimitationStatusNumPlugInstruments"
+        },
+        {
+          "offset": "0x1247184",
+          "encoding": "ascii",
+          "value": "sErrorLimitationNumPlugInstruments"
+        },
+        {
+          "offset": "0x124ffbc",
+          "encoding": "ascii",
+          "value": "ATimerDispatcher::AddIdleFunc"
+        },
+        {
+          "offset": "0x1250330",
+          "encoding": "ascii",
+          "value": "warning: patching FireProtect.dll instead of Live.exe"
+        },
+        {
+          "offset": "0x1250368",
+          "encoding": "ascii",
+          "value": "FireProtect.dll"
+        },
+        {
+          "offset": "0x1254848",
+          "encoding": "ascii",
+          "value": "PlugIn2Command"
+        },
+        {
+          "offset": "0x1254ddc",
+          "encoding": "ascii",
+          "value": "VstAsioCommand"
+        },
+        {
+          "offset": "0x125a6cc",
+          "encoding": "ascii",
+          "value": "PluginManager"
+        },
+        {
+          "offset": "0x125a6fc",
+          "encoding": "ascii",
+          "value": "mPluginWindowsHidden"
+        },
+        {
+          "offset": "0x125a780",
+          "encoding": "ascii",
+          "value": "mpPluginsActivationStateBang"
+        },
+        {
+          "offset": "0x125a7b8",
+          "encoding": "ascii",
+          "value": "mpAutoHidePluginWindow"
+        },
+        {
+          "offset": "0x125a7e4",
+          "encoding": "ascii",
+          "value": "APluginManager"
+        },
+        {
+          "offset": "0x125a820",
+          "encoding": "ascii",
+          "value": "OPluginHost.PluginBufferSizeChanged"
+        },
+        {
+          "offset": "0x125b5cc",
+          "encoding": "ascii",
+          "value": "sOsPlugins"
+        },
+        {
+          "offset": "0x125ce84",
+          "encoding": "ascii",
+          "value": "OPluginHost.Reset"
+        },
+        {
+          "offset": "0x12613b0",
+          "encoding": "ascii",
+          "value": "Plugins"
+        },
+        {
+          "offset": "0x1265e8c",
+          "encoding": "ascii",
+          "value": "sInfoTextPluginBrowser"
+        },
+        {
+          "offset": "0x1265ea4",
+          "encoding": "ascii",
+          "value": "sInfoTextHeaderPluginBrowser"
+        }
+      ],
+      "midi": [
+        {
+          "offset": "0x1221dc8",
+          "encoding": "ascii",
+          "value": "GroupDeviceBranch,AudioBranch,MidiEffectBranch,AudioEffectBranch,ReturnBranch,MidiToAudioBranch,DrumBranch,InstrumentBranch"
+        },
+        {
+          "offset": "0x1221e48",
+          "encoding": "ascii",
+          "value": "Track,PlayerTrack,BrowserTrack,MetronomeTrack,AudioTrack,AudioBrowserTrack,MidiTrack,MidiBrowserTrack,AbstractSendTrack,SendTrack,MasterTrack,PreHearTrack"
+        },
+        {
+          "offset": "0x1221ee8",
+          "encoding": "ascii",
+          "value": "PlayerTrack,BrowserTrack,MetronomeTrack,AudioTrack,AudioBrowserTrack,MidiTrack,MidiBrowserTrack"
+        },
+        {
+          "offset": "0x1221f78",
+          "encoding": "ascii",
+          "value": "Track,BrowserTrack,MasterTrack,MetronomeTrack,PlayerTrack,PreHearTrack,SendTrack,AbstractSendTrack,AudioTrack,AudioBrowserTrack,MidiTrack,MidiBrowserTrack"
+        },
+        {
+          "offset": "0x1222028",
+          "encoding": "ascii",
+          "value": "ProxyDevice,ProxyInstrumentDevice,ProxyAudioEffectDevice,ProxyMidiEffectDevice"
+        },
+        {
+          "offset": "0x1222100",
+          "encoding": "ascii",
+          "value": "GroupDevice,AudioEffectGroupDevice,InstrumentGroupDevice,MidiEffectGroupDevice,MidiGroupDevice,DrumGroupDevice"
+        },
+        {
+          "offset": "0x122219c",
+          "encoding": "ascii",
+          "value": "Song,SampleSong,VideoSong,MidiSong,ArrangerSong,LiveDocument"
+        },
+        {
+          "offset": "0x1222274",
+          "encoding": "ascii",
+          "value": "MidiNoteEvent"
+        },
+        {
+          "offset": "0x122247c",
+          "encoding": "ascii",
+          "value": "Clip,AudioClip,MidiClip"
+        },
+        {
+          "offset": "0x12225e8",
+          "encoding": "ascii",
+          "value": "MIDI"
+        },
+        {
+          "offset": "0x1223940",
+          "encoding": "ascii",
+          "value": "ReWireSlaveMidiTargetId"
+        },
+        {
+          "offset": "0x1224048",
+          "encoding": "ascii",
+          "value": "MidiControllerRange/Max/Value"
+        },
+        {
+          "offset": "0x1224068",
+          "encoding": "ascii",
+          "value": "MidiControllerRange/Min/Value"
+        },
+        {
+          "offset": "0x1224170",
+          "encoding": "ascii",
+          "value": "MidiTrackDeviceChain"
+        },
+        {
+          "offset": "0x1224188",
+          "encoding": "ascii",
+          "value": "MidiTrack"
+        },
+        {
+          "offset": "0x1224198",
+          "encoding": "ascii",
+          "value": "Sequencer type for PlayerTrack is not an AudioSequencer or a MidiSequencer"
+        },
+        {
+          "offset": "0x122429c",
+          "encoding": "ascii",
+          "value": "MidiToAudioDeviceChain"
+        },
+        {
+          "offset": "0x12242c8",
+          "encoding": "ascii",
+          "value": "MidiToMidiDeviceChain"
+        },
+        {
+          "offset": "0x12242e0",
+          "encoding": "ascii",
+          "value": "MidiEffectBranch"
+        },
+        {
+          "offset": "0x1224444",
+          "encoding": "ascii",
+          "value": "MidiOut/Track."
+        },
+        {
+          "offset": "0x1224454",
+          "encoding": "ascii",
+          "value": "MidiIn/Track."
+        },
+        {
+          "offset": "0x122450c",
+          "encoding": "ascii",
+          "value": "MidiEffectBranchPreset"
+        },
+        {
+          "offset": "0x1224524",
+          "encoding": "ascii",
+          "value": "MidiEffectGroupDevice"
+        },
+        {
+          "offset": "0x122464c",
+          "encoding": "ascii",
+          "value": "MidiLatencyTestMs"
+        },
+        {
+          "offset": "0x1224660",
+          "encoding": "ascii",
+          "value": "MidiLatencyTest"
+        },
+        {
+          "offset": "0x12246bc",
+          "encoding": "ascii",
+          "value": "MidiVelocity"
+        },
+        {
+          "offset": "0x12246cc",
+          "encoding": "ascii",
+          "value": "MidiScale"
+        },
+        {
+          "offset": "0x12246d8",
+          "encoding": "ascii",
+          "value": "MidiRandom"
+        },
+        {
+          "offset": "0x12246e4",
+          "encoding": "ascii",
+          "value": "MidiPitcher"
+        },
+        {
+          "offset": "0x12246f0",
+          "encoding": "ascii",
+          "value": "MidiChord"
+        },
+        {
+          "offset": "0x12246fc",
+          "encoding": "ascii",
+          "value": "MidiArpeggiator"
+        },
+        {
+          "offset": "0x12249b8",
+          "encoding": "ascii",
+          "value": "MidiControllerRange"
+        },
+        {
+          "offset": "0x1224d5c",
+          "encoding": "ascii",
+          "value": "KeyMidi"
+        },
+        {
+          "offset": "0x1224f50",
+          "encoding": "ascii",
+          "value": "Midi"
+        },
+        {
+          "offset": "0x1224f5c",
+          "encoding": "ascii",
+          "value": "RemoteableKeyMidi"
+        },
+        {
+          "offset": "0x1224f70",
+          "encoding": "ascii",
+          "value": "ArmKeyMidi"
+        },
+        {
+          "offset": "0x1224f7c",
+          "encoding": "ascii",
+          "value": "ArrangerRecordKeyMidi"
+        },
+        {
+          "offset": "0x1224f94",
+          "encoding": "ascii",
+          "value": "SessionRecordKeyMidi"
+        },
+        {
+          "offset": "0x1224fac",
+          "encoding": "ascii",
+          "value": "Midi/Channel/Value"
+        },
+        {
+          "offset": "0x1229a8c",
+          "encoding": "ascii",
+          "value": "MidiKeyBoardKeyUp"
+        },
+        {
+          "offset": "0x1229aa0",
+          "encoding": "ascii",
+          "value": "MidiKeyBoardKeyDown"
+        },
+        {
+          "offset": "0x1229ee4",
+          "encoding": "ascii",
+          "value": "Reload MIDI Remote Scripts"
+        },
+        {
+          "offset": "0x122a0c4",
+          "encoding": "ascii",
+          "value": "sMenuInsertMidiClip"
+        },
+        {
+          "offset": "0x122a0d8",
+          "encoding": "ascii",
+          "value": "sMenuSliceToNewMidiTrack"
+        },
+        {
+          "offset": "0x122a0f4",
+          "encoding": "ascii",
+          "value": "sMenuInsertMidiTrack"
+        },
+        {
+          "offset": "0x122a1c0",
+          "encoding": "ascii",
+          "value": "sManeuverTextMidiAssignment"
+        },
+        {
+          "offset": "0x122a224",
+          "encoding": "ascii",
+          "value": "sErrorTextOverrideMidiNoteAssignment"
+        },
+        {
+          "offset": "0x122a24c",
+          "encoding": "ascii",
+          "value": "sErrorTextOverrideMidiCCAssignment"
+        },
+        {
+          "offset": "0x122a79c",
+          "encoding": "ascii",
+          "value": "sMenuEnableMidiKeyboard"
+        },
+        {
+          "offset": "0x122a7c4",
+          "encoding": "ascii",
+          "value": "sMenuEditMidiMap"
+        },
+        {
+          "offset": "0x122aa48",
+          "encoding": "ascii",
+          "value": "sMenuExportMidiClip"
+        },
+        {
+          "offset": "0x122b3c0",
+          "encoding": "ascii",
+          "value": "mpMidiMapBrowserState"
+        },
+        {
+          "offset": "0x122d0c8",
+          "encoding": "ascii",
+          "value": "sManeuverTextInsertMidiTrack"
+        },
+        {
+          "offset": "0x122d224",
+          "encoding": "ascii",
+          "value": "mpMidiBrowserTrack"
+        },
+        {
+          "offset": "0x122d24c",
+          "encoding": "ascii",
+          "value": "sOsNewMidiFile"
+        },
+        {
+          "offset": "0x122e64c",
+          "encoding": "ascii",
+          "value": "midi"
+        },
+        {
+          "offset": "0x123082c",
+          "encoding": "ascii",
+          "value": "MidiPreHear.adv"
+        },
+        {
+          "offset": "0x1236774",
+          "encoding": "ascii",
+          "value": "LMidiIO"
+        },
+        {
+          "offset": "0x123677c",
+          "encoding": "ascii",
+          "value": "MidiIO"
+        },
+        {
+          "offset": "0x1236784",
+          "encoding": "ascii",
+          "value": "LMidiInOut"
+        },
+        {
+          "offset": "0x1236790",
+          "encoding": "ascii",
+          "value": "MidiInOut"
+        },
+        {
+          "offset": "0x123bac0",
+          "encoding": "ascii",
+          "value": "Midi Prelisten"
+        },
+        {
+          "offset": "0x123bb38",
+          "encoding": "ascii",
+          "value": "mpMidiPrelisten"
+        },
+        {
+          "offset": "0x123bb48",
+          "encoding": "ascii",
+          "value": "mpMidiFoldIn"
+        },
+        {
+          "offset": "0x123bb80",
+          "encoding": "ascii",
+          "value": "mpKeyMidiTrackPie"
+        },
+        {
+          "offset": "0x123bb94",
+          "encoding": "ascii",
+          "value": "mpKeyMidiFireSelectedScene"
+        },
+        {
+          "offset": "0x123be08",
+          "encoding": "ascii",
+          "value": "UseOwnGeneratedMidiTimeStamps"
+        },
+        {
+          "offset": "0x123c114",
+          "encoding": "ascii",
+          "value": "NoMidiMonitorLatencyCompensation"
+        },
+        {
+          "offset": "0x123c1e0",
+          "encoding": "ascii",
+          "value": "NoMidiServer"
+        },
+        {
+          "offset": "0x123c1f0",
+          "encoding": "ascii",
+          "value": "NoMidiJitterCorrection"
+        },
+        {
+          "offset": "0x123c208",
+          "encoding": "ascii",
+          "value": "NoMidiEventFiltering"
+        },
+        {
+          "offset": "0x123c220",
+          "encoding": "ascii",
+          "value": "NoMidiFromReWire"
+        },
+        {
+          "offset": "0x123c270",
+          "encoding": "ascii",
+          "value": "MidiJitterLogging"
+        },
+        {
+          "offset": "0x123c284",
+          "encoding": "ascii",
+          "value": "MidiEventThinning"
+        },
+        {
+          "offset": "0x123d104",
+          "encoding": "ascii",
+          "value": "mpMidiControllers"
+        },
+        {
+          "offset": "0x123d128",
+          "encoding": "ascii",
+          "value": "MIDI Ctrl"
+        },
+        {
+          "offset": "0x123d134",
+          "encoding": "ascii",
+          "value": "AMidiSequencer"
+        },
+        {
+          "offset": "0x123d15c",
+          "encoding": "ascii",
+          "value": "AMidiControllers"
+        },
+        {
+          "offset": "0x123d68c",
+          "encoding": "ascii",
+          "value": "mpMidiNoteMaxVelocity"
+        },
+        {
+          "offset": "0x123d6a4",
+          "encoding": "ascii",
+          "value": "mpMidiNoteMinVelocity"
+        }
+      ],
+      "modules": [
+        {
+          "offset": "0x12c74a0",
+          "encoding": "ascii",
+          "value": "Ableton Live Engine.dll"
+        },
+        {
+          "offset": "0x12c74c4",
+          "encoding": "ascii",
+          "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+        },
+        {
+          "offset": "0x13ccff4",
+          "encoding": "ascii",
+          "value": "LoadLibrary : Could not find the Functions of OceanMidi.dll !!"
+        },
+        {
+          "offset": "0x13cd054",
+          "encoding": "ascii",
+          "value": "LoadLibrary FAILED !!!!!"
+        },
+        {
+          "offset": "0x13cd070",
+          "encoding": "ascii",
+          "value": "OceanM.dll"
+        },
+        {
+          "offset": "0x170ac4a",
+          "encoding": "ascii",
+          "value": "LoadLibraryA"
+        },
+        {
+          "offset": "0x170ac5a",
+          "encoding": "ascii",
+          "value": "GetProcAddress"
+        },
+        {
+          "offset": "0x170b03c",
+          "encoding": "ascii",
+          "value": "FreeLibrary"
+        },
+        {
+          "offset": "0x170c522",
+          "encoding": "ascii",
+          "value": "LoadLibraryExA"
+        }
+      ]
+    }
+  },
+  {
+    "label": "engine",
+    "path": "C:\\Program Files (x86)\\Ableton\\Live 7.0.18\\Program\\Ableton Live Engine.dll",
+    "size": 3293184,
+    "category_counts": {
+      "vst": 80,
+      "midi": 80,
+      "audio": 23,
+      "serialization": 43,
+      "modules": 5
+    },
+    "strings": {
+      "vst": [
+        {
+          "offset": "0x2a5620",
+          "encoding": "ascii",
+          "value": "ReWireDebug.dll"
+        },
+        {
+          "offset": "0x2a5630",
+          "encoding": "ascii",
+          "value": "ReWireBeta.dll"
+        },
+        {
+          "offset": "0x2a5640",
+          "encoding": "ascii",
+          "value": "ReWire.dll"
+        },
+        {
+          "offset": "0x2b1cc8",
+          "encoding": "ascii",
+          "value": "VstNoUserDir"
+        },
+        {
+          "offset": "0x2b1cd8",
+          "encoding": "ascii",
+          "value": "VstNoScanSkip"
+        },
+        {
+          "offset": "0x2b1ce8",
+          "encoding": "ascii",
+          "value": "VstNoLocalDir"
+        },
+        {
+          "offset": "0x2b20d8",
+          "encoding": "ascii",
+          "value": "PluginScanVerbose"
+        },
+        {
+          "offset": "0x2b2104",
+          "encoding": "ascii",
+          "value": "NoVstStartupScan"
+        },
+        {
+          "offset": "0x2b221c",
+          "encoding": "ascii",
+          "value": "LogPluginPerformance"
+        },
+        {
+          "offset": "0x2b4d68",
+          "encoding": "ascii",
+          "value": "VstAsioCommand"
+        },
+        {
+          "offset": "0x2b4d90",
+          "encoding": "ascii",
+          "value": "PlugIn2Command"
+        },
+        {
+          "offset": "0x2b5fb0",
+          "encoding": "ascii",
+          "value": "MidiChannelDispatcher"
+        },
+        {
+          "offset": "0x2baee8",
+          "encoding": "ascii",
+          "value": "OVstProcessor.FinishIOSwitch"
+        },
+        {
+          "offset": "0x2baf08",
+          "encoding": "ascii",
+          "value": "OVstProcessor.PrepareIOSwitch"
+        },
+        {
+          "offset": "0x2baf28",
+          "encoding": "ascii",
+          "value": "OVstProcessor.AllNotesOff"
+        },
+        {
+          "offset": "0x2bb108",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.LoadPlugin"
+        },
+        {
+          "offset": "0x2bb13c",
+          "encoding": "ascii",
+          "value": "AThirdPartyDeviceModule.LoadPluginFailed"
+        },
+        {
+          "offset": "0x2bb2e0",
+          "encoding": "ascii",
+          "value": "VstScan.Scan"
+        },
+        {
+          "offset": "0x2bb338",
+          "encoding": "ascii",
+          "value": "VstSetParameterInfo"
+        },
+        {
+          "offset": "0x2bb34c",
+          "encoding": "ascii",
+          "value": "VstPlugin"
+        },
+        {
+          "offset": "0x2bb358",
+          "encoding": "ascii",
+          "value": "VstInitHostInfo"
+        },
+        {
+          "offset": "0x2bb368",
+          "encoding": "ascii",
+          "value": "VstChangeNameInfo"
+        },
+        {
+          "offset": "0x2bb388",
+          "encoding": "ascii",
+          "value": "VstToggleEditorInfo"
+        },
+        {
+          "offset": "0x2bb39c",
+          "encoding": "ascii",
+          "value": "VstParameterInfo"
+        },
+        {
+          "offset": "0x2bb3b0",
+          "encoding": "ascii",
+          "value": "VstProgramNamesInfo"
+        },
+        {
+          "offset": "0x2bb3d0",
+          "encoding": "ascii",
+          "value": "VstPresetInfo"
+        },
+        {
+          "offset": "0x2bb3e8",
+          "encoding": "ascii",
+          "value": "VstCreateInfo"
+        },
+        {
+          "offset": "0x2bb3f8",
+          "encoding": "ascii",
+          "value": "VstSetParameterText"
+        },
+        {
+          "offset": "0x2bb40c",
+          "encoding": "ascii",
+          "value": "VstPluginInfo.UpdateRequest"
+        },
+        {
+          "offset": "0x2bb428",
+          "encoding": "ascii",
+          "value": "VstRelease.Release"
+        },
+        {
+          "offset": "0x2bb43c",
+          "encoding": "ascii",
+          "value": "PluginDevice.ReportPosition"
+        },
+        {
+          "offset": "0x2bb458",
+          "encoding": "ascii",
+          "value": "VstAutomate.Automate"
+        },
+        {
+          "offset": "0x2bb470",
+          "encoding": "ascii",
+          "value": "VstToggleFullscreen.ToggleFullScreen"
+        },
+        {
+          "offset": "0x2bb498",
+          "encoding": "ascii",
+          "value": "VstToFront.ToFront"
+        },
+        {
+          "offset": "0x2bb4ac",
+          "encoding": "ascii",
+          "value": "VstHide.Hide"
+        },
+        {
+          "offset": "0x2bb4bc",
+          "encoding": "ascii",
+          "value": "VstShow.Show"
+        },
+        {
+          "offset": "0x2bb4cc",
+          "encoding": "ascii",
+          "value": "PluginDevice.CloseRequest"
+        },
+        {
+          "offset": "0x2bb4e8",
+          "encoding": "ascii",
+          "value": "VstInitHost.Init"
+        },
+        {
+          "offset": "0x2bb4fc",
+          "encoding": "ascii",
+          "value": "VstChangeName.ChangeName"
+        },
+        {
+          "offset": "0x2bb518",
+          "encoding": "ascii",
+          "value": "VstToggleEditor.IsEditorOpen"
+        },
+        {
+          "offset": "0x2bb538",
+          "encoding": "ascii",
+          "value": "VstToggleEditor.ToggleEditor"
+        },
+        {
+          "offset": "0x2bb558",
+          "encoding": "ascii",
+          "value": "VstParameter.Parameter"
+        },
+        {
+          "offset": "0x2bb570",
+          "encoding": "ascii",
+          "value": "VstProgramNames.ProgramNames"
+        },
+        {
+          "offset": "0x2bb590",
+          "encoding": "ascii",
+          "value": "VstWritePreset.Write"
+        },
+        {
+          "offset": "0x2bb5a8",
+          "encoding": "ascii",
+          "value": "VstReleasePreset.Release"
+        },
+        {
+          "offset": "0x2bb5c4",
+          "encoding": "ascii",
+          "value": "VstReadPreset.Read"
+        },
+        {
+          "offset": "0x2bb5d8",
+          "encoding": "ascii",
+          "value": "VstDestroy.Destroy"
+        },
+        {
+          "offset": "0x2bb5ec",
+          "encoding": "ascii",
+          "value": "VstCreate.Create"
+        },
+        {
+          "offset": "0x2bb74c",
+          "encoding": "ascii",
+          "value": "OPluginHost.PluginBufferSizeChanged"
+        },
+        {
+          "offset": "0x2bb770",
+          "encoding": "ascii",
+          "value": "OPluginHost.FinishBufferSizeChange"
+        },
+        {
+          "offset": "0x2bb794",
+          "encoding": "ascii",
+          "value": "OPluginHost.RenewPluginBuffers"
+        },
+        {
+          "offset": "0x2bb7b4",
+          "encoding": "ascii",
+          "value": "OPluginHost.Reset"
+        },
+        {
+          "offset": "0x2bb808",
+          "encoding": "ascii",
+          "value": "VstInstance.UpdateLatency"
+        },
+        {
+          "offset": "0x2bb844",
+          "encoding": "ascii",
+          "value": "VstInstance.BusConnect"
+        },
+        {
+          "offset": "0x2bb874",
+          "encoding": "ascii",
+          "value": "VstInstance.UpdateData"
+        },
+        {
+          "offset": "0x2bb8a8",
+          "encoding": "ascii",
+          "value": "VstInstance.SetParameterObjectId"
+        },
+        {
+          "offset": "0x2bb8cc",
+          "encoding": "ascii",
+          "value": "OPluginIOConfig"
+        },
+        {
+          "offset": "0x2bb8dc",
+          "encoding": "ascii",
+          "value": "VstInstance.QueryIOConfig"
+        },
+        {
+          "offset": "0x2bb904",
+          "encoding": "ascii",
+          "value": "VstInstance.SwitchPreset"
+        },
+        {
+          "offset": "0x2bb928",
+          "encoding": "ascii",
+          "value": "VstInstance.ChangeWindowTitle"
+        },
+        {
+          "offset": "0x2bb9ac",
+          "encoding": "ascii",
+          "value": "receiveVstEvents"
+        },
+        {
+          "offset": "0x2bb9c0",
+          "encoding": "ascii",
+          "value": "sendVstTimeInfo"
+        },
+        {
+          "offset": "0x2bb9d0",
+          "encoding": "ascii",
+          "value": "sendVstMidiEventFlagIsRealtime"
+        },
+        {
+          "offset": "0x2bb9f0",
+          "encoding": "ascii",
+          "value": "sendVstEvents"
+        },
+        {
+          "offset": "0x2bba04",
+          "encoding": "ascii",
+          "value": "VstIgnoreIOConfig"
+        },
+        {
+          "offset": "0x2bba18",
+          "encoding": "ascii",
+          "value": "receiveVstMidiEvent"
+        },
+        {
+          "offset": "0x2bba2c",
+          "encoding": "ascii",
+          "value": "sendVstMidiEvent"
+        },
+        {
+          "offset": "0x2bba54",
+          "encoding": "ascii",
+          "value": "PluginDevice.PluginError"
+        },
+        {
+          "offset": "0x2bba70",
+          "encoding": "ascii",
+          "value": "PluginDevice.IOChanged"
+        },
+        {
+          "offset": "0x2bba88",
+          "encoding": "ascii",
+          "value": "VstInstance.ProcessMidi"
+        },
+        {
+          "offset": "0x2bbaa0",
+          "encoding": "ascii",
+          "value": "VstInstance.ShowWindow"
+        },
+        {
+          "offset": "0x2bbab8",
+          "encoding": "ascii",
+          "value": "PluginDevice.PluginStatistics"
+        },
+        {
+          "offset": "0x2bbb04",
+          "encoding": "ascii",
+          "value": "VstHost.SwitchPowerSaving"
+        },
+        {
+          "offset": "0x2bbb20",
+          "encoding": "ascii",
+          "value": "VstHost.EditIdle"
+        },
+        {
+          "offset": "0x2bbb34",
+          "encoding": "ascii",
+          "value": "VstHost.Idle"
+        },
+        {
+          "offset": "0x2bcc3c",
+          "encoding": "ascii",
+          "value": "OPlugin.ShowWindow"
+        },
+        {
+          "offset": "0x2bcc50",
+          "encoding": "ascii",
+          "value": "OPlugin.ChangeWindowTitle"
+        },
+        {
+          "offset": "0x2bcc6c",
+          "encoding": "ascii",
+          "value": "OPlugin.CloseWindow"
+        },
+        {
+          "offset": "0x2bcca8",
+          "encoding": "ascii",
+          "value": "OPlugin.OpenWindow"
+        },
+        {
+          "offset": "0x2bcce0",
+          "encoding": "ascii",
+          "value": ".dll"
+        }
+      ],
+      "midi": [
+        {
+          "offset": "0x2adcac",
+          "encoding": "ascii",
+          "value": "NoMidiFromReWire"
+        },
+        {
+          "offset": "0x2b1688",
+          "encoding": "ascii",
+          "value": "MidiOut"
+        },
+        {
+          "offset": "0x2b1690",
+          "encoding": "ascii",
+          "value": "MidiIn"
+        },
+        {
+          "offset": "0x2b1698",
+          "encoding": "ascii",
+          "value": "ReWireMidiTrackInProcessor"
+        },
+        {
+          "offset": "0x2b16b4",
+          "encoding": "ascii",
+          "value": "ReWireMidiInMainProcessor"
+        },
+        {
+          "offset": "0x2b16d0",
+          "encoding": "ascii",
+          "value": "MidiFeedbackProcessor"
+        },
+        {
+          "offset": "0x2b16e8",
+          "encoding": "ascii",
+          "value": "MidiDirectInProcessor"
+        },
+        {
+          "offset": "0x2b1700",
+          "encoding": "ascii",
+          "value": "MidiClipAttributeProcessor"
+        },
+        {
+          "offset": "0x2b171c",
+          "encoding": "ascii",
+          "value": "ReWireMidiOutProcessor"
+        },
+        {
+          "offset": "0x2b1734",
+          "encoding": "ascii",
+          "value": "MidiControllerGateProcessor"
+        },
+        {
+          "offset": "0x2b1750",
+          "encoding": "ascii",
+          "value": "MidiControllerChangeProcessor"
+        },
+        {
+          "offset": "0x2b1770",
+          "encoding": "ascii",
+          "value": "MidiSequencerRouter"
+        },
+        {
+          "offset": "0x2b1784",
+          "encoding": "ascii",
+          "value": "MidiRecorder"
+        },
+        {
+          "offset": "0x2b1794",
+          "encoding": "ascii",
+          "value": "MidiClock"
+        },
+        {
+          "offset": "0x2b1878",
+          "encoding": "ascii",
+          "value": "MidiJitter.LogAudioBufferTime"
+        },
+        {
+          "offset": "0x2b1898",
+          "encoding": "ascii",
+          "value": "OReWireMidiInMainProcessor.AllowMidiInput"
+        },
+        {
+          "offset": "0x2b1d2c",
+          "encoding": "ascii",
+          "value": "UseOwnGeneratedMidiTimeStamps"
+        },
+        {
+          "offset": "0x2b2048",
+          "encoding": "ascii",
+          "value": "NoMidiMonitorLatencyCompensation"
+        },
+        {
+          "offset": "0x2b2130",
+          "encoding": "ascii",
+          "value": "NoMidiServer"
+        },
+        {
+          "offset": "0x2b2140",
+          "encoding": "ascii",
+          "value": "NoMidiJitterCorrection"
+        },
+        {
+          "offset": "0x2b2158",
+          "encoding": "ascii",
+          "value": "NoMidiEventFiltering"
+        },
+        {
+          "offset": "0x2b21ac",
+          "encoding": "ascii",
+          "value": "MidiJitterLogging"
+        },
+        {
+          "offset": "0x2b21c0",
+          "encoding": "ascii",
+          "value": "MidiEventThinning"
+        },
+        {
+          "offset": "0x2b3d4c",
+          "encoding": "ascii",
+          "value": "DisplayTypeIdMidi"
+        },
+        {
+          "offset": "0x2b3da0",
+          "encoding": "ascii",
+          "value": "IsMidi"
+        },
+        {
+          "offset": "0x2b3da8",
+          "encoding": "ascii",
+          "value": "TrackOutProcessor.SetIsMidi"
+        },
+        {
+          "offset": "0x2b3de0",
+          "encoding": "ascii",
+          "value": "OutMidiReset"
+        },
+        {
+          "offset": "0x2b3df0",
+          "encoding": "ascii",
+          "value": "OutMidi"
+        },
+        {
+          "offset": "0x2b3e08",
+          "encoding": "ascii",
+          "value": "OutMidiLevel"
+        },
+        {
+          "offset": "0x2b3f98",
+          "encoding": "ascii",
+          "value": "InMidi"
+        },
+        {
+          "offset": "0x2b4d58",
+          "encoding": "ascii",
+          "value": "MidiCommander"
+        },
+        {
+          "offset": "0x2b5008",
+          "encoding": "ascii",
+          "value": "ReWire.MidiTargetChanged"
+        },
+        {
+          "offset": "0x2b58fc",
+          "encoding": "ascii",
+          "value": "MidiMeter"
+        },
+        {
+          "offset": "0x2b5908",
+          "encoding": "ascii",
+          "value": "MidiMeterProcessor.SwitchProcessing"
+        },
+        {
+          "offset": "0x2b594c",
+          "encoding": "ascii",
+          "value": "MidiMeterProcessor.SetIds"
+        },
+        {
+          "offset": "0x2b59cc",
+          "encoding": "ascii",
+          "value": "MidiToHerz"
+        },
+        {
+          "offset": "0x2b59d8",
+          "encoding": "ascii",
+          "value": "MidiNote"
+        },
+        {
+          "offset": "0x2b5b8c",
+          "encoding": "ascii",
+          "value": "SimplerMidiCtrl"
+        },
+        {
+          "offset": "0x2b5c24",
+          "encoding": "ascii",
+          "value": "MidiFb7"
+        },
+        {
+          "offset": "0x2b5c2c",
+          "encoding": "ascii",
+          "value": "MidiFb6"
+        },
+        {
+          "offset": "0x2b5c34",
+          "encoding": "ascii",
+          "value": "MidiFb5"
+        },
+        {
+          "offset": "0x2b5c3c",
+          "encoding": "ascii",
+          "value": "MidiFb4"
+        },
+        {
+          "offset": "0x2b5c44",
+          "encoding": "ascii",
+          "value": "MidiFb3"
+        },
+        {
+          "offset": "0x2b5c4c",
+          "encoding": "ascii",
+          "value": "MidiFb2"
+        },
+        {
+          "offset": "0x2b5c54",
+          "encoding": "ascii",
+          "value": "MidiFb1"
+        },
+        {
+          "offset": "0x2b5c5c",
+          "encoding": "ascii",
+          "value": "MidiFb0"
+        },
+        {
+          "offset": "0x2b5c64",
+          "encoding": "ascii",
+          "value": "Midi7"
+        },
+        {
+          "offset": "0x2b5c6c",
+          "encoding": "ascii",
+          "value": "Midi6"
+        },
+        {
+          "offset": "0x2b5c74",
+          "encoding": "ascii",
+          "value": "Midi5"
+        },
+        {
+          "offset": "0x2b5c7c",
+          "encoding": "ascii",
+          "value": "Midi4"
+        },
+        {
+          "offset": "0x2b5c84",
+          "encoding": "ascii",
+          "value": "Midi3"
+        },
+        {
+          "offset": "0x2b5c8c",
+          "encoding": "ascii",
+          "value": "Midi2"
+        },
+        {
+          "offset": "0x2b5c94",
+          "encoding": "ascii",
+          "value": "Midi1"
+        },
+        {
+          "offset": "0x2b5c9c",
+          "encoding": "ascii",
+          "value": "Midi0"
+        },
+        {
+          "offset": "0x2b5ca4",
+          "encoding": "ascii",
+          "value": "MidiCtrl"
+        },
+        {
+          "offset": "0x2b5f68",
+          "encoding": "ascii",
+          "value": "MidiCompensateDelay"
+        },
+        {
+          "offset": "0x2b5f7c",
+          "encoding": "ascii",
+          "value": "MidiCompensateDelay.SetDelay"
+        },
+        {
+          "offset": "0x2b5f9c",
+          "encoding": "ascii",
+          "value": "MidiVariableDelay"
+        },
+        {
+          "offset": "0x2b5fb0",
+          "encoding": "ascii",
+          "value": "MidiChannelDispatcher"
+        },
+        {
+          "offset": "0x2b601c",
+          "encoding": "ascii",
+          "value": "MidiLatencyTestMs"
+        },
+        {
+          "offset": "0x2b6030",
+          "encoding": "ascii",
+          "value": "MidiLatencyTest"
+        },
+        {
+          "offset": "0x2b62b8",
+          "encoding": "ascii",
+          "value": "BranchOutMidi"
+        },
+        {
+          "offset": "0x2b75b8",
+          "encoding": "ascii",
+          "value": "OutMidiCtrl"
+        },
+        {
+          "offset": "0x2b7bf8",
+          "encoding": "ascii",
+          "value": "MidiPitcher"
+        },
+        {
+          "offset": "0x2b7c24",
+          "encoding": "ascii",
+          "value": "MidiArpeggiator"
+        },
+        {
+          "offset": "0x2b7d40",
+          "encoding": "ascii",
+          "value": "MidiNoteLength"
+        },
+        {
+          "offset": "0x2b7d84",
+          "encoding": "ascii",
+          "value": "MidiRandom"
+        },
+        {
+          "offset": "0x2b7dcc",
+          "encoding": "ascii",
+          "value": "MidiChord"
+        },
+        {
+          "offset": "0x2b7e50",
+          "encoding": "ascii",
+          "value": "MidiVelocity"
+        },
+        {
+          "offset": "0x2b7e84",
+          "encoding": "ascii",
+          "value": "MidiScale"
+        },
+        {
+          "offset": "0x2b7fdc",
+          "encoding": "ascii",
+          "value": "MidiGate"
+        },
+        {
+          "offset": "0x2b8020",
+          "encoding": "ascii",
+          "value": "InMidiSub"
+        },
+        {
+          "offset": "0x2b802c",
+          "encoding": "ascii",
+          "value": "MidiSwitch"
+        },
+        {
+          "offset": "0x2b8044",
+          "encoding": "ascii",
+          "value": "InMidi2"
+        },
+        {
+          "offset": "0x2b804c",
+          "encoding": "ascii",
+          "value": "InMidi1"
+        },
+        {
+          "offset": "0x2b8054",
+          "encoding": "ascii",
+          "value": "ConnectableMidiGate"
+        },
+        {
+          "offset": "0x2b80c8",
+          "encoding": "ascii",
+          "value": "InterDomainMidiConnectionReader"
+        },
+        {
+          "offset": "0x2b80e8",
+          "encoding": "ascii",
+          "value": "OutPackedMidi"
+        },
+        {
+          "offset": "0x2b80f8",
+          "encoding": "ascii",
+          "value": "InterDomainMidiConnectionWriter"
+        },
+        {
+          "offset": "0x2b81c0",
+          "encoding": "ascii",
+          "value": "MidiInputRouter"
+        }
+      ],
+      "audio": [
+        {
+          "offset": "0x2adcd4",
+          "encoding": "ascii",
+          "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+        },
+        {
+          "offset": "0x2adf10",
+          "encoding": "ascii",
+          "value": "RootUnit.SetSampleRateReWireHost"
+        },
+        {
+          "offset": "0x2b1b88",
+          "encoding": "ascii",
+          "value": "OEngine.OSetSampleRate"
+        },
+        {
+          "offset": "0x2b1cac",
+          "encoding": "ascii",
+          "value": "WriteLanguageCommentFile"
+        },
+        {
+          "offset": "0x2b1eec",
+          "encoding": "ascii",
+          "value": "SoundManagerBufferSize"
+        },
+        {
+          "offset": "0x2b2764",
+          "encoding": "ascii",
+          "value": "AsioDisableMultiClient"
+        },
+        {
+          "offset": "0x2b277c",
+          "encoding": "ascii",
+          "value": "AsioSupportProcessNow"
+        },
+        {
+          "offset": "0x2b2794",
+          "encoding": "ascii",
+          "value": "AsioNoSetSampleRate"
+        },
+        {
+          "offset": "0x2b27a8",
+          "encoding": "ascii",
+          "value": "AsioNoSampleRateCheck"
+        },
+        {
+          "offset": "0x2b27c0",
+          "encoding": "ascii",
+          "value": "AsioNoClockSource"
+        },
+        {
+          "offset": "0x2b3464",
+          "encoding": "ascii",
+          "value": "SampleRate"
+        },
+        {
+          "offset": "0x2b3b58",
+          "encoding": "ascii",
+          "value": "BufferSize"
+        },
+        {
+          "offset": "0x2b4d68",
+          "encoding": "ascii",
+          "value": "VstAsioCommand"
+        },
+        {
+          "offset": "0x2ba3e0",
+          "encoding": "ascii",
+          "value": "_OFileBufferSize"
+        },
+        {
+          "offset": "0x2bb0b0",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnBufferSizeChanged"
+        },
+        {
+          "offset": "0x2bb270",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnNewSampleRate"
+        },
+        {
+          "offset": "0x2bb29c",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.OnSampleRateChanged"
+        },
+        {
+          "offset": "0x2bb738",
+          "encoding": "ascii",
+          "value": "BufferSizeInSamples"
+        },
+        {
+          "offset": "0x2bb74c",
+          "encoding": "ascii",
+          "value": "OPluginHost.PluginBufferSizeChanged"
+        },
+        {
+          "offset": "0x2bb770",
+          "encoding": "ascii",
+          "value": "OPluginHost.FinishBufferSizeChange"
+        },
+        {
+          "offset": "0x2bcdf8",
+          "encoding": "ascii",
+          "value": "SetSampleRateU"
+        },
+        {
+          "offset": "0x2de62a",
+          "encoding": "ascii",
+          "value": "GetSystemMetrics"
+        },
+        {
+          "offset": "0x2dedc8",
+          "encoding": "ascii",
+          "value": "Ableton Live Engine.dll"
+        }
+      ],
+      "serialization": [
+        {
+          "offset": "0x2adcd4",
+          "encoding": "ascii",
+          "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+        },
+        {
+          "offset": "0x2ae31f",
+          "encoding": "ascii",
+          "value": "AAbleton Live"
+        },
+        {
+          "offset": "0x2ae330",
+          "encoding": "ascii",
+          "value": "Ableton Live (Reason)"
+        },
+        {
+          "offset": "0x2b1980",
+          "encoding": "ascii",
+          "value": "OSong.BeginUpdateStructure"
+        },
+        {
+          "offset": "0x2b1c4c",
+          "encoding": "ascii",
+          "value": "Ableton"
+        },
+        {
+          "offset": "0x2b20a0",
+          "encoding": "ascii",
+          "value": "PreviewAlwaysSyncedToSong"
+        },
+        {
+          "offset": "0x2b2448",
+          "encoding": "ascii",
+          "value": "EnableAbletonLibraryPackCreation"
+        },
+        {
+          "offset": "0x2b2668",
+          "encoding": "ascii",
+          "value": "ClipFireWillContinueSong"
+        },
+        {
+          "offset": "0x2b29f0",
+          "encoding": "ascii",
+          "value": "/ableton/live/omessage_factory"
+        },
+        {
+          "offset": "0x2b3128",
+          "encoding": "ascii",
+          "value": "SongLatency"
+        },
+        {
+          "offset": "0x2b42c8",
+          "encoding": "ascii",
+          "value": "SongPointer"
+        },
+        {
+          "offset": "0x2b46b0",
+          "encoding": "ascii",
+          "value": "RecordManager.RenderSongLoopJump"
+        },
+        {
+          "offset": "0x2b4850",
+          "encoding": "ascii",
+          "value": "AbstractTrackUnit.SongPositionJump"
+        },
+        {
+          "offset": "0x2b4874",
+          "encoding": "ascii",
+          "value": "RecordManager.SongPlayingSwitched"
+        },
+        {
+          "offset": "0x2b4b34",
+          "encoding": "ascii",
+          "value": "Song"
+        },
+        {
+          "offset": "0x2b4b3c",
+          "encoding": "ascii",
+          "value": "OUpdateSongCommand"
+        },
+        {
+          "offset": "0x2b4b64",
+          "encoding": "ascii",
+          "value": "OSong.EndUpdateStructure"
+        },
+        {
+          "offset": "0x2b663c",
+          "encoding": "ascii",
+          "value": "Eq8BandSerializer"
+        },
+        {
+          "offset": "0x2b6650",
+          "encoding": "ascii",
+          "value": "Eq8ParamSerializer"
+        },
+        {
+          "offset": "0x2b7290",
+          "encoding": "ascii",
+          "value": "AdsrSerializer"
+        },
+        {
+          "offset": "0x2b76d4",
+          "encoding": "ascii",
+          "value": "InstrumentImpulseVolumeSerializer"
+        },
+        {
+          "offset": "0x2b76f8",
+          "encoding": "ascii",
+          "value": "InstrumentImpulseDecaySerializer"
+        },
+        {
+          "offset": "0x2b771c",
+          "encoding": "ascii",
+          "value": "InstrumentImpulseFilterSerializer"
+        },
+        {
+          "offset": "0x2b7740",
+          "encoding": "ascii",
+          "value": "InstrumentImpulseStartSerializer"
+        },
+        {
+          "offset": "0x2b7764",
+          "encoding": "ascii",
+          "value": "InstrumentImpulseTabSerializer"
+        },
+        {
+          "offset": "0x2baea8",
+          "encoding": "ascii",
+          "value": "_FadeSongMs"
+        },
+        {
+          "offset": "0x2bb054",
+          "encoding": "ascii",
+          "value": "OThirdPartyDeviceProcessor.LoadBinaryPreset"
+        },
+        {
+          "offset": "0x2bb3c4",
+          "encoding": "ascii",
+          "value": "PresetInfo"
+        },
+        {
+          "offset": "0x2bb3d0",
+          "encoding": "ascii",
+          "value": "VstPresetInfo"
+        },
+        {
+          "offset": "0x2bb590",
+          "encoding": "ascii",
+          "value": "VstWritePreset.Write"
+        },
+        {
+          "offset": "0x2bb5a8",
+          "encoding": "ascii",
+          "value": "VstReleasePreset.Release"
+        },
+        {
+          "offset": "0x2bb5c4",
+          "encoding": "ascii",
+          "value": "VstReadPreset.Read"
+        },
+        {
+          "offset": "0x2bb8f8",
+          "encoding": "ascii",
+          "value": "PresetIndex"
+        },
+        {
+          "offset": "0x2bb904",
+          "encoding": "ascii",
+          "value": "VstInstance.SwitchPreset"
+        },
+        {
+          "offset": "0x2bbb74",
+          "encoding": "ascii",
+          "value": "Ableton Live Shared Memory %d"
+        },
+        {
+          "offset": "0x2bcbbc",
+          "encoding": "ascii",
+          "value": "/ableton/live/file_thread"
+        },
+        {
+          "offset": "0x2bcd88",
+          "encoding": "ascii",
+          "value": "AbletonVstPlugClass"
+        },
+        {
+          "offset": "0x2de104",
+          "encoding": "ascii",
+          "value": "_fpreset"
+        },
+        {
+          "offset": "0x2dedc8",
+          "encoding": "ascii",
+          "value": "Ableton Live Engine.dll"
+        },
+        {
+          "offset": "0x2e7970",
+          "encoding": "ascii",
+          "value": ".?AVODelayedStartSongEvent@@"
+        },
+        {
+          "offset": "0x2e7bb4",
+          "encoding": "ascii",
+          "value": ".?AVOSong@@"
+        },
+        {
+          "offset": "0x2e89b0",
+          "encoding": "ascii",
+          "value": ".?AVOStartSongSampleEvent@@"
+        },
+        {
+          "offset": "0x2e9ef4",
+          "encoding": "ascii",
+          "value": ".?AVOVstPresetInfo@@"
+        }
+      ],
+      "modules": [
+        {
+          "offset": "0x2adcd4",
+          "encoding": "ascii",
+          "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+        },
+        {
+          "offset": "0x2dea9c",
+          "encoding": "ascii",
+          "value": "FreeLibrary"
+        },
+        {
+          "offset": "0x2deaaa",
+          "encoding": "ascii",
+          "value": "LoadLibraryA"
+        },
+        {
+          "offset": "0x2deaba",
+          "encoding": "ascii",
+          "value": "GetProcAddress"
+        },
+        {
+          "offset": "0x2dedc8",
+          "encoding": "ascii",
+          "value": "Ableton Live Engine.dll"
+        }
+      ]
+    }
+  }
+]

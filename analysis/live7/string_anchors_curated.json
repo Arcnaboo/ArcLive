@@ -1,0 +1,576 @@
+{
+  "exe": {
+    "audio": [
+      {
+        "offset": "0x11ee84c",
+        "encoding": "ascii",
+        "value": "No ASIO Driver Error"
+      },
+      {
+        "offset": "0x12501e8",
+        "encoding": "ascii",
+        "value": "Default DirectSound Device"
+      },
+      {
+        "offset": "0x1298618",
+        "encoding": "ascii",
+        "value": "[Sample rate of ($1) is not supported for $2 files.]"
+      },
+      {
+        "offset": "0x11e7930",
+        "encoding": "ascii",
+        "value": "buffer size mismatch"
+      },
+      {
+        "offset": "0x122429c",
+        "encoding": "ascii",
+        "value": "MidiToAudioDeviceChain"
+      },
+      {
+        "offset": "0x1298680",
+        "encoding": "ascii",
+        "value": "sErrorCantReadSoundFile"
+      },
+      {
+        "offset": "0x11e1828",
+        "encoding": "ascii",
+        "value": "__subclasses__() -> list of immediate subclasses"
+      },
+      {
+        "offset": "0x11e84fc",
+        "encoding": "ascii",
+        "value": "negative buffersize in connect"
+      },
+      {
+        "offset": "0x11ee4cc",
+        "encoding": "ascii",
+        "value": "missing ) after comment"
+      },
+      {
+        "offset": "0x11ee864",
+        "encoding": "ascii",
+        "value": "No ASIO Driver"
+      },
+      {
+        "offset": "0x11ee898",
+        "encoding": "ascii",
+        "value": "software\\asio"
+      },
+      {
+        "offset": "0x11f334c",
+        "encoding": "ascii",
+        "value": "Microsoft Commercial Code Signing"
+      }
+    ],
+    "midi": [
+      {
+        "offset": "0x1224454",
+        "encoding": "ascii",
+        "value": "MidiIn/Track."
+      },
+      {
+        "offset": "0x1224444",
+        "encoding": "ascii",
+        "value": "MidiOut/Track."
+      },
+      {
+        "offset": "0x1221ee8",
+        "encoding": "ascii",
+        "value": "PlayerTrack,BrowserTrack,MetronomeTrack,AudioTrack,AudioBrowserTrack,MidiTrack,MidiBrowserTrack"
+      },
+      {
+        "offset": "0x1222028",
+        "encoding": "ascii",
+        "value": "ProxyDevice,ProxyInstrumentDevice,ProxyAudioEffectDevice,ProxyMidiEffectDevice"
+      },
+      {
+        "offset": "0x1222100",
+        "encoding": "ascii",
+        "value": "GroupDevice,AudioEffectGroupDevice,InstrumentGroupDevice,MidiEffectGroupDevice,MidiGroupDevice,DrumGroupDevice"
+      },
+      {
+        "offset": "0x122219c",
+        "encoding": "ascii",
+        "value": "Song,SampleSong,VideoSong,MidiSong,ArrangerSong,LiveDocument"
+      },
+      {
+        "offset": "0x1222274",
+        "encoding": "ascii",
+        "value": "MidiNoteEvent"
+      },
+      {
+        "offset": "0x122247c",
+        "encoding": "ascii",
+        "value": "Clip,AudioClip,MidiClip"
+      },
+      {
+        "offset": "0x1223940",
+        "encoding": "ascii",
+        "value": "ReWireSlaveMidiTargetId"
+      },
+      {
+        "offset": "0x1224048",
+        "encoding": "ascii",
+        "value": "MidiControllerRange/Max/Value"
+      },
+      {
+        "offset": "0x1224068",
+        "encoding": "ascii",
+        "value": "MidiControllerRange/Min/Value"
+      },
+      {
+        "offset": "0x1224170",
+        "encoding": "ascii",
+        "value": "MidiTrackDeviceChain"
+      }
+    ],
+    "vst": [
+      {
+        "offset": "0x1225150",
+        "encoding": "ascii",
+        "value": "VstDeviceParam"
+      },
+      {
+        "offset": "0x11db440",
+        "encoding": "ascii",
+        "value": "ReWireDebug.dll"
+      },
+      {
+        "offset": "0x11db450",
+        "encoding": "ascii",
+        "value": "ReWireBeta.dll"
+      },
+      {
+        "offset": "0x11db460",
+        "encoding": "ascii",
+        "value": "ReWire.dll"
+      },
+      {
+        "offset": "0x11e4260",
+        "encoding": "ascii",
+        "value": "python%d%d.dll"
+      },
+      {
+        "offset": "0x11e42d0",
+        "encoding": "ascii",
+        "value": "kernel32.dll"
+      },
+      {
+        "offset": "0x11fbc78",
+        "encoding": "ascii",
+        "value": "USER32.DLL"
+      },
+      {
+        "offset": "0x11fbd94",
+        "encoding": "ascii",
+        "value": "NETAPI32.DLL"
+      },
+      {
+        "offset": "0x11fbda4",
+        "encoding": "ascii",
+        "value": "KERNEL32.DLL"
+      },
+      {
+        "offset": "0x11fbdb4",
+        "encoding": "ascii",
+        "value": "ADVAPI32.DLL"
+      },
+      {
+        "offset": "0x1218a84",
+        "encoding": "ascii",
+        "value": "REX Shared Library Debug.dll"
+      },
+      {
+        "offset": "0x1218aa4",
+        "encoding": "ascii",
+        "value": "REX Shared Library Beta.dll"
+      }
+    ],
+    "serialization": [
+      {
+        "offset": "0x1229cbc",
+        "encoding": "ascii",
+        "value": "Template.als"
+      },
+      {
+        "offset": "0x1229874",
+        "encoding": "ascii",
+        "value": ".adv"
+      },
+      {
+        "offset": "0x1229860",
+        "encoding": "ascii",
+        "value": ".adg"
+      },
+      {
+        "offset": "0x11f34a4",
+        "encoding": "ascii",
+        "value": "zlib compression"
+      },
+      {
+        "offset": "0x123e724",
+        "encoding": "ascii",
+        "value": "Ableton Live Set"
+      },
+      {
+        "offset": "0x11fb768",
+        "encoding": "ascii",
+        "value": "d:\\dev\\ableton-5.0-intelmac\\xprojects\\xopenssl\\dist\\crypto\\ec\\ec2_smpt.c"
+      },
+      {
+        "offset": "0x11d1ed0",
+        "encoding": "ascii",
+        "value": " deflate 1.2.2 Copyright 1995-2004 Jean-loup Gailly "
+      },
+      {
+        "offset": "0x11d54d0",
+        "encoding": "ascii",
+        "value": " inflate 1.2.2 Copyright 1995-2004 Mark Adler "
+      },
+      {
+        "offset": "0x11f1da4",
+        "encoding": "ascii",
+        "value": "OCSP Archive Cutoff"
+      },
+      {
+        "offset": "0x11f1db8",
+        "encoding": "ascii",
+        "value": "archiveCutoff"
+      },
+      {
+        "offset": "0x11f2228",
+        "encoding": "ascii",
+        "value": "id-regCtrl-pkiArchiveOptions"
+      },
+      {
+        "offset": "0x11f28d4",
+        "encoding": "ascii",
+        "value": "id-smime-aa-ets-archiveTimeStamp"
+      }
+    ],
+    "modules": [
+      {
+        "offset": "0x12c74a0",
+        "encoding": "ascii",
+        "value": "Ableton Live Engine.dll"
+      },
+      {
+        "offset": "0x13ccff4",
+        "encoding": "ascii",
+        "value": "LoadLibrary : Could not find the Functions of OceanMidi.dll !!"
+      },
+      {
+        "offset": "0x13cd054",
+        "encoding": "ascii",
+        "value": "LoadLibrary FAILED !!!!!"
+      },
+      {
+        "offset": "0x12c74c4",
+        "encoding": "ascii",
+        "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+      },
+      {
+        "offset": "0x13cd070",
+        "encoding": "ascii",
+        "value": "OceanM.dll"
+      },
+      {
+        "offset": "0x170ac4a",
+        "encoding": "ascii",
+        "value": "LoadLibraryA"
+      },
+      {
+        "offset": "0x170ac5a",
+        "encoding": "ascii",
+        "value": "GetProcAddress"
+      },
+      {
+        "offset": "0x170b03c",
+        "encoding": "ascii",
+        "value": "FreeLibrary"
+      },
+      {
+        "offset": "0x170c522",
+        "encoding": "ascii",
+        "value": "LoadLibraryExA"
+      }
+    ]
+  },
+  "engine": {
+    "audio": [
+      {
+        "offset": "0x2b2764",
+        "encoding": "ascii",
+        "value": "AsioDisableMultiClient"
+      },
+      {
+        "offset": "0x2b1eec",
+        "encoding": "ascii",
+        "value": "SoundManagerBufferSize"
+      },
+      {
+        "offset": "0x2b1cac",
+        "encoding": "ascii",
+        "value": "WriteLanguageCommentFile"
+      },
+      {
+        "offset": "0x2adcd4",
+        "encoding": "ascii",
+        "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+      },
+      {
+        "offset": "0x2adf10",
+        "encoding": "ascii",
+        "value": "RootUnit.SetSampleRateReWireHost"
+      },
+      {
+        "offset": "0x2b1b88",
+        "encoding": "ascii",
+        "value": "OEngine.OSetSampleRate"
+      },
+      {
+        "offset": "0x2b277c",
+        "encoding": "ascii",
+        "value": "AsioSupportProcessNow"
+      },
+      {
+        "offset": "0x2b2794",
+        "encoding": "ascii",
+        "value": "AsioNoSetSampleRate"
+      },
+      {
+        "offset": "0x2b27a8",
+        "encoding": "ascii",
+        "value": "AsioNoSampleRateCheck"
+      },
+      {
+        "offset": "0x2b27c0",
+        "encoding": "ascii",
+        "value": "AsioNoClockSource"
+      },
+      {
+        "offset": "0x2b3464",
+        "encoding": "ascii",
+        "value": "SampleRate"
+      },
+      {
+        "offset": "0x2b3b58",
+        "encoding": "ascii",
+        "value": "BufferSize"
+      }
+    ],
+    "midi": [
+      {
+        "offset": "0x2b1690",
+        "encoding": "ascii",
+        "value": "MidiIn"
+      },
+      {
+        "offset": "0x2b1688",
+        "encoding": "ascii",
+        "value": "MidiOut"
+      },
+      {
+        "offset": "0x2adcac",
+        "encoding": "ascii",
+        "value": "NoMidiFromReWire"
+      },
+      {
+        "offset": "0x2b1698",
+        "encoding": "ascii",
+        "value": "ReWireMidiTrackInProcessor"
+      },
+      {
+        "offset": "0x2b16b4",
+        "encoding": "ascii",
+        "value": "ReWireMidiInMainProcessor"
+      },
+      {
+        "offset": "0x2b16d0",
+        "encoding": "ascii",
+        "value": "MidiFeedbackProcessor"
+      },
+      {
+        "offset": "0x2b16e8",
+        "encoding": "ascii",
+        "value": "MidiDirectInProcessor"
+      },
+      {
+        "offset": "0x2b1700",
+        "encoding": "ascii",
+        "value": "MidiClipAttributeProcessor"
+      },
+      {
+        "offset": "0x2b171c",
+        "encoding": "ascii",
+        "value": "ReWireMidiOutProcessor"
+      },
+      {
+        "offset": "0x2b1734",
+        "encoding": "ascii",
+        "value": "MidiControllerGateProcessor"
+      },
+      {
+        "offset": "0x2b1750",
+        "encoding": "ascii",
+        "value": "MidiControllerChangeProcessor"
+      },
+      {
+        "offset": "0x2b1770",
+        "encoding": "ascii",
+        "value": "MidiSequencerRouter"
+      }
+    ],
+    "vst": [
+      {
+        "offset": "0x2b1cc8",
+        "encoding": "ascii",
+        "value": "VstNoUserDir"
+      },
+      {
+        "offset": "0x2a5620",
+        "encoding": "ascii",
+        "value": "ReWireDebug.dll"
+      },
+      {
+        "offset": "0x2a5630",
+        "encoding": "ascii",
+        "value": "ReWireBeta.dll"
+      },
+      {
+        "offset": "0x2a5640",
+        "encoding": "ascii",
+        "value": "ReWire.dll"
+      },
+      {
+        "offset": "0x2b1cd8",
+        "encoding": "ascii",
+        "value": "VstNoScanSkip"
+      },
+      {
+        "offset": "0x2b1ce8",
+        "encoding": "ascii",
+        "value": "VstNoLocalDir"
+      },
+      {
+        "offset": "0x2b20d8",
+        "encoding": "ascii",
+        "value": "PluginScanVerbose"
+      },
+      {
+        "offset": "0x2b2104",
+        "encoding": "ascii",
+        "value": "NoVstStartupScan"
+      },
+      {
+        "offset": "0x2b221c",
+        "encoding": "ascii",
+        "value": "LogPluginPerformance"
+      },
+      {
+        "offset": "0x2b4d68",
+        "encoding": "ascii",
+        "value": "VstAsioCommand"
+      },
+      {
+        "offset": "0x2b4d90",
+        "encoding": "ascii",
+        "value": "PlugIn2Command"
+      },
+      {
+        "offset": "0x2b5fb0",
+        "encoding": "ascii",
+        "value": "MidiChannelDispatcher"
+      }
+    ],
+    "serialization": [
+      {
+        "offset": "0x2adcd4",
+        "encoding": "ascii",
+        "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+      },
+      {
+        "offset": "0x2ae31f",
+        "encoding": "ascii",
+        "value": "AAbleton Live"
+      },
+      {
+        "offset": "0x2ae330",
+        "encoding": "ascii",
+        "value": "Ableton Live (Reason)"
+      },
+      {
+        "offset": "0x2b1980",
+        "encoding": "ascii",
+        "value": "OSong.BeginUpdateStructure"
+      },
+      {
+        "offset": "0x2b1c4c",
+        "encoding": "ascii",
+        "value": "Ableton"
+      },
+      {
+        "offset": "0x2b20a0",
+        "encoding": "ascii",
+        "value": "PreviewAlwaysSyncedToSong"
+      },
+      {
+        "offset": "0x2b2448",
+        "encoding": "ascii",
+        "value": "EnableAbletonLibraryPackCreation"
+      },
+      {
+        "offset": "0x2b2668",
+        "encoding": "ascii",
+        "value": "ClipFireWillContinueSong"
+      },
+      {
+        "offset": "0x2b29f0",
+        "encoding": "ascii",
+        "value": "/ableton/live/omessage_factory"
+      },
+      {
+        "offset": "0x2b3128",
+        "encoding": "ascii",
+        "value": "SongLatency"
+      },
+      {
+        "offset": "0x2b42c8",
+        "encoding": "ascii",
+        "value": "SongPointer"
+      },
+      {
+        "offset": "0x2b46b0",
+        "encoding": "ascii",
+        "value": "RecordManager.RenderSongLoopJump"
+      }
+    ],
+    "modules": [
+      {
+        "offset": "0x2adcd4",
+        "encoding": "ascii",
+        "value": "SOFTWARE\\Propellerhead Software\\ReWire\\Ableton Live Engine"
+      },
+      {
+        "offset": "0x2deaaa",
+        "encoding": "ascii",
+        "value": "LoadLibraryA"
+      },
+      {
+        "offset": "0x2dea9c",
+        "encoding": "ascii",
+        "value": "FreeLibrary"
+      },
+      {
+        "offset": "0x2deaba",
+        "encoding": "ascii",
+        "value": "GetProcAddress"
+      },
+      {
+        "offset": "0x2dedc8",
+        "encoding": "ascii",
+        "value": "Ableton Live Engine.dll"
+      }
+    ]
+  }
+}
